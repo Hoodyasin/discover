@@ -15,7 +15,9 @@ scanf ("%d", num1);
 printf ("Enter second Number: ");
 scanf ("%d", num2);
 
-printf("Answer will be: %d", num1+num2)
+printf("Answer will be: %d", num1+num2);
+
+printf("Answer will be: %d", num1*num2);
 
 return 0;
 }
